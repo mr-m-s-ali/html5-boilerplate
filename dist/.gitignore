@@ -4,4 +4,9 @@
 node_modules
 dist
 .cache
+
+#Ignore file
 /credentials.py
+
+#Ignoretxt files inside of folder
+text/*.txt
